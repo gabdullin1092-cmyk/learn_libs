@@ -1,4 +1,5 @@
-import { Contract, ContractListItem, ContractStatus, STATUS_LABELS } from './types'
+import { STATUS_LABELS } from './types'
+import type { Contract, ContractListItem, ContractStatus } from './types'
 
 // ============================================================
 // ПОЛЬЗОВАТЕЛИ — три роли для демо

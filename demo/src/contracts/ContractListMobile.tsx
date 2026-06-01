@@ -1,6 +1,6 @@
 import { Box, Card, EmptyState, For, HStack, Show, Text, VStack } from '@chakra-ui/react'
 import { format, parseISO } from 'date-fns'
-import { ContractListItem } from './types'
+import type { ContractListItem } from './types'
 import { StatusBadge } from './StatusBadge'
 import { SignCircle } from './SignCircle'
 

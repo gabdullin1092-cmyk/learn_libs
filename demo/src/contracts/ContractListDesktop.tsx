@@ -7,7 +7,7 @@ import {
     useReactTable,
 } from '@tanstack/react-table'
 import { format, parseISO } from 'date-fns'
-import { ContractListItem } from './types'
+import type { ContractListItem } from './types'
 import { StatusBadge } from './StatusBadge'
 import { SignCircle } from './SignCircle'
 

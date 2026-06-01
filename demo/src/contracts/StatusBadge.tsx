@@ -1,6 +1,6 @@
 import { Badge } from '@chakra-ui/react'
 import { memo } from 'react'
-import { ContractStatus } from './types'
+import type { ContractStatus } from './types'
 
 // ============================================================
 // Числовой statusId → цвет и название

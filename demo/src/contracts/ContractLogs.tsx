@@ -1,7 +1,7 @@
 import { Box, Circle, For, HStack, Icon, Show, Text, VStack } from '@chakra-ui/react'
 import { Check } from 'lucide-react'
 import { format, parseISO, isValid } from 'date-fns'
-import { ContractLog } from './types'
+import type { ContractLog } from './types'
 
 // ============================================================
 // Временная шкала событий договора
