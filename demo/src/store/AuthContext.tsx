@@ -1,4 +1,4 @@
-import { createContext, useCallback, useContext, useEffect, useState, type ReactNode } from 'react'
+   import { createContext, useCallback, useContext, useEffect, useState, type ReactNode } from 'react'
 import type { AppContext, AppUser, AppCompany, AppRole } from './types'
 import { defaultAppContext } from './types'
 import { session } from './session'
